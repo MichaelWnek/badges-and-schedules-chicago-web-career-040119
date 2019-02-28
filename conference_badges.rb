@@ -31,7 +31,6 @@ def assign_rooms(attendees).each do |assignment|
 end
 
 
-end
 
 
   
